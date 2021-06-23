@@ -1,6 +1,6 @@
 About:
 ======
-Web application in JavaScript demonstrating basic login and user authorization using cookies.<br />
+Web application in JavaScript (Node.js) demonstrating basic login and user authorization using cookies.<br />
 Shows Bitcoin price for logged in users.
 
 To start the app:
@@ -16,10 +16,10 @@ http://localhost:3000/
 
 Modules:
 ========
-- express
-- bcrypt
-- body-parser
-- cookie-parser
+- express;
+- bcrypt;
+- body-parser;
+- cookie-parser.
 
 To install modules:<br />
 npm install express bcrypt body-parser cookie-parser --save
