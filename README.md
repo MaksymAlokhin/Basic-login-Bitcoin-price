@@ -1,19 +1,18 @@
 About:
 ======
-Web application demonstrating basic login and user authorization using cookies.<br />
+Web application in JavaScript demonstrating basic login and user authorization using cookies.<br />
 Shows Bitcoin price for logged in users.
 
 To start the app:
 =================
-Type in console:
-npm <br />
+Type in console:<br />
+npm init<br />
 node app.js<br />
 
 Navigate to:
 http://localhost:3000/
 
-- Language: JavaScript (Node.js + Express)
-- Security: bcrypt (encrypt passwords)
+
 
 Modules:
 ========
